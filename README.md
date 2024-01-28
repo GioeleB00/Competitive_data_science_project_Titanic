@@ -4,7 +4,7 @@ In this folder we present a full analysis of a database available on [Kaggle](ht
 
 ## File in the repository
 
-#### From_EDA_to_predictions:
+#### Titanic_From_EDA_to_predictions:
 
 In this file you can find the full notebook written in Python to predict the survivors of the Titanic disaster. Inside the file you will find comments, explanations and justifications of all the necessary steps from the exploratory data analysis to the choice of the classification algorithm and the predictions.
 
